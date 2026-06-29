@@ -1,0 +1,166 @@
+canonical_identifier: bkk:krp/KR3ep023/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep023/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 眉壽堂方案選存
+  identifiers:
+    krp: KR3ep023
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep023.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ep023_001-jc.yaml, hash: 'sha256:ae429961d9b83eaafacb607fdd9bcfedf01fc284cc607ef8be0e999a7deb3181'}
+  - {seq: 3, filename: KR3ep023_003-jc.yaml, hash: 'sha256:7ad3d488dba615ccd4a907de45ed1d2d1aa876e8d6eee88e29790d8208ba0d30'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ep023_001-jc.markers.yaml, hash: 'sha256:75a04986f1038357e9d6ae191e62573132a2aad93d2fa02796087f440a033eb5'}
+  - {seq: 3, role: markers, filename: assets/KR3ep023_003-jc.markers.yaml, hash: 'sha256:bb169fe7ba713a722905f0970ea286e5119c7a961d08ce606fd8f837d88dc81f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ep023_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 17988
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep023_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 2963
+  label: 春溫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep023_jc_001-d2d3
+    span:
+    - body
+    - 2963
+    - 3678
+  label: 時癘濕溫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep023_jc_001-d2d4
+    span:
+    - body
+    - 3678
+    - 8394
+  label: 暑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep023_jc_001-d2d5
+    span:
+    - body
+    - 8394
+    - 8812
+  label: 燥病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep023_jc_001-d2d6
+    span:
+    - body
+    - 8812
+    - 9156
+  label: 寒病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep023_jc_001-d2d7
+    span:
+    - body
+    - 9156
+    - 10434
+  label: 冬溫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep023_jc_001-d2d8
+    span:
+    - body
+    - 10434
+    - 17988
+  label: 瘧疾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep023_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 17113
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep023_jc_003-d3d2
+    span:
+    - body
+    - 2
+    - 10068
+  label: 女科
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep023_jc_003-d3d3
+    span:
+    - body
+    - 10068
+    - 10579
+  label: 幼科
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep023_jc_003-d3d4
+    span:
+    - body
+    - 10579
+    - 15013
+  label: 痘科
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep023_jc_003-d3d5
+    span:
+    - body
+    - 15013
+    - 15247
+  label: 痧疹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep023_jc_003-d3d6
+    span:
+    - body
+    - 15247
+    - 17113
+  label: 外科
+  type: section
+  level: 2
+hash: sha256:67b23714ce5cf04ecff0c6946a79456fd781ea31e93759dac2a9e66aa420efe6
