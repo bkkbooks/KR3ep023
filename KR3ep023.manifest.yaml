@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ep023_001.yaml, hash: 'sha256:705300cad6820f93e2a3a5842b3d05a04b2d0e4e0c6057a92dcde343c76f7d59'}
-  - {seq: 3, filename: KR3ep023_003.yaml, hash: 'sha256:33d85e875345b7e3b6240e35182a5e6be4f8c8c67326a1c837cba0b64acbf5bf'}
+  - {seq: 1, filename: KR3ep023_001.yaml, hash: 'sha256:ae429961d9b83eaafacb607fdd9bcfedf01fc284cc607ef8be0e999a7deb3181'}
+  - {seq: 3, filename: KR3ep023_003.yaml, hash: 'sha256:7ad3d488dba615ccd4a907de45ed1d2d1aa876e8d6eee88e29790d8208ba0d30'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ep023_001.markers.yaml, hash: 'sha256:6a3fc8237c7d4236a1e9ccd41007d21532e37601d7e6278e6248c0dde365bdab'}
-  - {seq: 3, role: markers, filename: assets/KR3ep023_003.markers.yaml, hash: 'sha256:b858e69ad6716eff5988a187774d1e4c9b5a83aa9409cef807fdb5c0bb8dd069'}
+  - {seq: 1, role: markers, filename: assets/KR3ep023_001.markers.yaml, hash: 'sha256:c993c29e03bc364dd320594d52b99f5026820cb72c4d9dccf262d7d186496812'}
+  - {seq: 3, role: markers, filename: assets/KR3ep023_003.markers.yaml, hash: 'sha256:e09b08b51deac09d3bc770e3d9034fcfabad4358d8aa3f566c592c7149ffb756'}
 table_of_contents:
 - ref:
     seq: 1
@@ -163,7 +163,4 @@ table_of_contents:
   label: 外科
   type: section
   level: 2
-hash: sha256:b401ec7f97fc050044fe71671b455df117c464e21768d970bc6026616d9cf2d5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d56b34ce732d0efd2d9209e32c7a9eb9367f66cdbe7a33586701e17f0e01f63c
