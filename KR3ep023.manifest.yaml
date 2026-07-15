@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep023/v1
 canonical_location: https://kanripo.org/bkk/KR3ep023/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 眉壽堂方案選存
   identifiers:
@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ep023_001.yaml, hash: 'sha256:ae429961d9b83eaafacb607fdd9bcfedf01fc284cc607ef8be0e999a7deb3181'}
-  - {seq: 3, filename: KR3ep023_003.yaml, hash: 'sha256:7ad3d488dba615ccd4a907de45ed1d2d1aa876e8d6eee88e29790d8208ba0d30'}
+  - {seq: 1, filename: KR3ep023_001.yaml, hash: 'sha256:c56a5ccaad879c63f0f650df33e3925f13c0dda4b4bc86e5abc81aa586764ec0'}
+  - {seq: 3, filename: KR3ep023_003.yaml, hash: 'sha256:909658f8b244705b63c1a737b1bf934f8cdf3c4dbe1ff1416342ef547c2ffa28'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ep023_001.markers.yaml, hash: 'sha256:c993c29e03bc364dd320594d52b99f5026820cb72c4d9dccf262d7d186496812'}
-  - {seq: 3, role: markers, filename: assets/KR3ep023_003.markers.yaml, hash: 'sha256:e09b08b51deac09d3bc770e3d9034fcfabad4358d8aa3f566c592c7149ffb756'}
+  - {seq: 1, role: markers, filename: assets/KR3ep023_001.markers.yaml, hash: 'sha256:8180a75f342f5e6d9c2b4db4513e6e3a6524cbe67a5c61e0c774a765c8e04e6d'}
+  - {seq: 3, role: markers, filename: assets/KR3ep023_003.markers.yaml, hash: 'sha256:4268b97a93a3c642192ab8db67e63ead57d77f4a416d0f6048c05ed522c74d95'}
 table_of_contents:
 - ref:
     seq: 1
@@ -163,4 +163,7 @@ table_of_contents:
   label: 外科
   type: section
   level: 2
-hash: sha256:d56b34ce732d0efd2d9209e32c7a9eb9367f66cdbe7a33586701e17f0e01f63c
+hash: sha256:399c8aab5c7c16dd24729f6465a7f527229f88980c013d121c815da31e76663b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
