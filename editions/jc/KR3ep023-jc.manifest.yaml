@@ -20,8 +20,8 @@ assets:
   - {seq: 1, filename: KR3ep023_001-jc.yaml, hash: 'sha256:ae429961d9b83eaafacb607fdd9bcfedf01fc284cc607ef8be0e999a7deb3181'}
   - {seq: 3, filename: KR3ep023_003-jc.yaml, hash: 'sha256:7ad3d488dba615ccd4a907de45ed1d2d1aa876e8d6eee88e29790d8208ba0d30'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ep023_001-jc.markers.yaml, hash: 'sha256:75a04986f1038357e9d6ae191e62573132a2aad93d2fa02796087f440a033eb5'}
-  - {seq: 3, role: markers, filename: assets/KR3ep023_003-jc.markers.yaml, hash: 'sha256:bb169fe7ba713a722905f0970ea286e5119c7a961d08ce606fd8f837d88dc81f'}
+  - {seq: 1, role: markers, filename: assets/KR3ep023_001-jc.markers.yaml, hash: 'sha256:5c89922314104060805f725fa2d09b9560b9a6b5ee4ca7af7c6b2be46f1935ae'}
+  - {seq: 3, role: markers, filename: assets/KR3ep023_003-jc.markers.yaml, hash: 'sha256:7ccc06501e171aa26ec217c5c45f4415ffa23c2e9cd31b27ba8f8df1c84fdae8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -163,4 +163,4 @@ table_of_contents:
   label: 外科
   type: section
   level: 2
-hash: sha256:67b23714ce5cf04ecff0c6946a79456fd781ea31e93759dac2a9e66aa420efe6
+hash: sha256:d242aaad1b4f18eb3dba860d47c751c086b6d49d768155259ef0dbe5e1668c1b
